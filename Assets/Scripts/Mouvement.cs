@@ -8,10 +8,11 @@ public class Mouvement : MonoBehaviour
 	public Rigidbody2D rb;
 	public SpriteRenderer spriteRenderer;
 	public BoxCollider2D playerBox;
+	public Animator animator;
 	
 	private Vector3 velocity = Vector3.zero;
 	private Vector3 moveDirection;
-	private float moveSpeed;
+	public float moveSpeed = 0;
 	
 	public Sprite upSprite;
 	public Sprite downSprite;
@@ -22,8 +23,6 @@ public class Mouvement : MonoBehaviour
 	private void Awake() {
 		//Orientation
 		moveDirection = new Vector3(1, 0);
-		//Speed de base
-		moveSpeed = 100;
 	}
 	
     void FixedUpdate(){	
@@ -42,15 +41,17 @@ public class Mouvement : MonoBehaviour
 		if (Input.GetKey(KeyCode.Space)){
 			
 			// SetUP de la charge
-			if (moveSpeed < 600){moveSpeed += 2;}
+			if (moveSpeed < 1000){moveSpeed += 2;}
 			
 			Vector3 targetVelocity = new Vector2(_horizontalMovement, _verticalMovement);
-			rb.velocity = targetVelocity;	
+			rb.velocity = targetVelocity;
+			
+			animator.SetFloat("Speed", moveSpeed);
 			
 		}
 		
 		else {
-			moveSpeed = 100;
+			moveSpeed = 0;
 			rb.velocity = Vector3.zero;
 		}
 		
@@ -67,24 +68,32 @@ public class Mouvement : MonoBehaviour
 		return n;
 	}
 	
-	// Set la movedirection en vecteur2 et empêche le demi-tour + solution temporaire
+	// Set la moveDirection en vecteur2 et empêche le demi-tour + solution temporaire de hitbox
 	private void HandleInput(){
 		
 		if (Input.GetKey(KeyCode.UpArrow)){
 			if (moveDirection.y != -1 || !Input.GetKey(KeyCode.Space)){
 				
-				moveDirection.x = 0;
-				moveDirection.y = +1;				
+				// Set la direction
+				moveDirection = new Vector3(0, 1);
+				
+				// Communique la direction pour l'animation
+				animator.SetFloat("Direction", 1);
+				
+				// Attribue la HitBox				
 				playerBox.size = new Vector2(0.3054974f , 0.4665129f);	
 				playerBox.offset = new Vector2(0.000820592f , -0.002076507f);
 				
+				// Passe l'info d'priantation a la direction
 				spriteRenderer.sprite = upSprite;
 			}
 		}
 		if (Input.GetKey(KeyCode.DownArrow)){
 			if (moveDirection.y != +1 || !Input.GetKey(KeyCode.Space)){
-				moveDirection.x = 0;
-				moveDirection.y = -1;
+				
+				moveDirection = new Vector3(0, -1);
+				
+				animator.SetFloat("Direction", 2);
 				
 				playerBox.size = new Vector2(0.3054974f , 0.4665129f);	
 				playerBox.offset = new Vector2(0.000820592f , -0.002076507f);
@@ -94,8 +103,10 @@ public class Mouvement : MonoBehaviour
 		}
 		if (Input.GetKey(KeyCode.LeftArrow)){
 			if (moveDirection.x != +1 || !Input.GetKey(KeyCode.Space)){
-				moveDirection.x = -1;
-				moveDirection.y = 0;
+				
+				moveDirection = new Vector3(-1, 0);
+				
+				animator.SetFloat("Direction", 3);
 				
 				playerBox.size = new Vector2(0.5842918f , 0.2992364f);	
 				playerBox.offset = new Vector2(-0.0668866f , -0.08571476f);
@@ -105,8 +116,10 @@ public class Mouvement : MonoBehaviour
 		}
 		if (Input.GetKey(KeyCode.RightArrow)){
 			if (moveDirection.x != -1 || !Input.GetKey(KeyCode.Space)){
-				moveDirection.x = +1;
-				moveDirection.y = 0;
+				
+				moveDirection = new Vector3(1, 0);
+				
+				animator.SetFloat("Direction", 4);
 				
 				playerBox.size = new Vector2(0.5842918f , 0.2992364f);	
 				playerBox.offset = new Vector2(0.0844588f , -0.08571476f);
