@@ -6,9 +6,17 @@ public class Mouvement : MonoBehaviour
 {
 	
 	public Rigidbody2D rb;
+	public SpriteRenderer spriteRenderer;
+	public BoxCollider2D playerBox;
+	
 	private Vector3 velocity = Vector3.zero;
 	private Vector3 moveDirection;
 	private float moveSpeed;
+	
+	public Sprite upSprite;
+	public Sprite downSprite;
+	public Sprite leftSprite;
+	public Sprite rightSprite;
 	
 	//On set nos valeurs speed + direction d'origine
 	private void Awake() {
@@ -46,9 +54,9 @@ public class Mouvement : MonoBehaviour
 			rb.velocity = Vector3.zero;
 		}
 		
-	// Aligne le sprite sur la direction(vecteur)
+	 //Aligne le sprite sur la direction(vecteur)
 	
-		transform.eulerAngles = new Vector3(0, 0, GetAngleFromVector(moveDirection) -90);
+		//transform.eulerAngles = new Vector3(0, 0, GetAngleFromVector(moveDirection));
 	}
 	
 	
@@ -66,24 +74,44 @@ public class Mouvement : MonoBehaviour
 			if (moveDirection.y != -1 || !Input.GetKey(KeyCode.Space)){
 				moveDirection.x = 0;
 				moveDirection.y = +1;
+				
+				playerBox.size = new Vector2(0.3054974f , 0.4665129f);	
+				playerBox.offset = new Vector2(0.000820592f , -0.002076507f);
+				
+				spriteRenderer.sprite = upSprite;
 			}
 		}
 		if (Input.GetKey(KeyCode.DownArrow)){
 			if (moveDirection.y != +1 || !Input.GetKey(KeyCode.Space)){
 				moveDirection.x = 0;
 				moveDirection.y = -1;
+				
+				playerBox.size = new Vector2(0.3054974f , 0.4665129f);	
+				playerBox.offset = new Vector2(0.000820592f , -0.002076507f);
+				
+				spriteRenderer.sprite = downSprite;
 			}
 		}
 		if (Input.GetKey(KeyCode.LeftArrow)){
 			if (moveDirection.x != +1 || !Input.GetKey(KeyCode.Space)){
 				moveDirection.x = -1;
 				moveDirection.y = 0;
+				
+				playerBox.size = new Vector2(0.5842918f , 0.2992364f);	
+				playerBox.offset = new Vector2(-0.0668866f , -0.08571476f);
+				
+				spriteRenderer.sprite = leftSprite;
 			}
 		}
 		if (Input.GetKey(KeyCode.RightArrow)){
 			if (moveDirection.x != -1 || !Input.GetKey(KeyCode.Space)){
 				moveDirection.x = +1;
 				moveDirection.y = 0;
+				
+				playerBox.size = new Vector2(0.5842918f , 0.2992364f);	
+				playerBox.offset = new Vector2(0.0844588f , -0.08571476f);
+			
+				spriteRenderer.sprite = rightSprite;
 			}
 		}
 	}
