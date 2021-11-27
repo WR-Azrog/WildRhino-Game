@@ -67,14 +67,14 @@ public class Mouvement : MonoBehaviour
 		return n;
 	}
 	
-	// Set la movedirection en vecteur2 et empêche le demi-tour
+	// Set la movedirection en vecteur2 et empêche le demi-tour + solution temporaire
 	private void HandleInput(){
 		
 		if (Input.GetKey(KeyCode.UpArrow)){
 			if (moveDirection.y != -1 || !Input.GetKey(KeyCode.Space)){
-				moveDirection.x = 0;
-				moveDirection.y = +1;
 				
+				moveDirection.x = 0;
+				moveDirection.y = +1;				
 				playerBox.size = new Vector2(0.3054974f , 0.4665129f);	
 				playerBox.offset = new Vector2(0.000820592f , -0.002076507f);
 				
