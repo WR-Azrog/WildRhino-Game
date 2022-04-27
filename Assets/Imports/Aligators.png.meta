@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 933d6ede0ea664c4295caae1c42ff516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7927046127479801974
+    second: Aligators_0
+  - first:
+      213: -3527351476623583700
+    second: Aligators_1
+  - first:
+      213: -3108996548237972216
+    second: Aligators_2
+  - first:
+      213: 2658385756167142514
+    second: Aligators_3
+  - first:
+      213: 4829270287327044974
+    second: Aligators_4
+  - first:
+      213: 4364029549849750773
+    second: Aligators_5
+  - first:
+      213: 7783901161873504467
+    second: Aligators_6
+  - first:
+      213: 3800551719847299212
+    second: Aligators_7
+  - first:
+      213: -663606418775759815
+    second: Aligators_8
+  - first:
+      213: 6128634380681805495
+    second: Aligators_9
+  - first:
+      213: -8247653057067205003
+    second: Aligators_10
+  - first:
+      213: 6548339066044318811
+    second: Aligators_11
+  - first:
+      213: 8743304785901084244
+    second: Aligators_12
+  - first:
+      213: -1465851222087573853
+    second: Aligators_13
+  - first:
+      213: 5598710215631360317
+    second: Aligators_14
+  - first:
+      213: 892576026392008435
+    second: Aligators_15
+  - first:
+      213: -929022964499116637
+    second: Aligators_16
+  - first:
+      213: 1538752424966627783
+    second: Aligators_17
+  - first:
+      213: -2302815446600793015
+    second: Aligators_18
+  - first:
+      213: 5021787659882532800
+    second: Aligators_19
+  - first:
+      213: 6633394312646680517
+    second: Aligators_20
+  - first:
+      213: -1215273645848966518
+    second: Aligators_21
+  - first:
+      213: 5905167519464612285
+    second: Aligators_22
+  - first:
+      213: -6997518052325470463
+    second: Aligators_23
+  - first:
+      213: -9066975706762705152
+    second: Aligators_24
+  - first:
+      213: 8976299952325658242
+    second: Aligators_25
+  - first:
+      213: 7191803152536489306
+    second: Aligators_26
+  - first:
+      213: 6982237368450845477
+    second: Aligators_27
+  - first:
+      213: -2243015889542464457
+    second: Aligators_28
+  - first:
+      213: -6202179630244609210
+    second: Aligators_29
+  - first:
+      213: 932204958585360456
+    second: Aligators_30
+  - first:
+      213: -5708443472195683835
+    second: Aligators_31
+  - first:
+      213: 8250229539562450193
+    second: Aligators_32
+  - first:
+      213: -3456212681940988102
+    second: Aligators_33
+  - first:
+      213: -6512348888814219150
+    second: Aligators_34
+  - first:
+      213: 7647290823750463734
+    second: Aligators_35
+  - first:
+      213: -4233965455702008780
+    second: Aligators_36
+  - first:
+      213: 32281378657709976
+    second: Aligators_37
+  - first:
+      213: 3096197011770832473
+    second: Aligators_38
+  - first:
+      213: 674532043603381923
+    second: Aligators_39
+  - first:
+      213: -4943483314320870692
+    second: Aligators_40
+  - first:
+      213: 653415331489399382
+    second: Aligators_41
+  - first:
+      213: 5734780746633341043
+    second: Aligators_42
+  - first:
+      213: 2320788805441214374
+    second: Aligators_43
+  - first:
+      213: -3377908361571367357
+    second: Aligators_44
+  - first:
+      213: -7579346134464874790
+    second: Aligators_45
+  - first:
+      213: -4898167599258598100
+    second: Aligators_46
+  - first:
+      213: -1094174997562249362
+    second: Aligators_47
+  - first:
+      213: -8444077364120183399
+    second: Aligators_48
+  - first:
+      213: 5270354291390606243
+    second: Aligators_49
+  - first:
+      213: 693223789747673150
+    second: Aligators_50
+  - first:
+      213: 4416248488913500509
+    second: Aligators_51
+  - first:
+      213: -7756790515080894904
+    second: Aligators_52
+  - first:
+      213: -4210707355177797399
+    second: Aligators_53
+  - first:
+      213: 7917429377440572594
+    second: Aligators_54
+  - first:
+      213: -2550014290893822618
+    second: Aligators_55
+  - first:
+      213: -5430244742867526924
+    second: Aligators_56
+  - first:
+      213: -3184587205548299656
+    second: Aligators_57
+  - first:
+      213: 7950223332539516407
+    second: Aligators_58
+  - first:
+      213: 6500605202676092995
+    second: Aligators_59
+  - first:
+      213: 6810154309393656780
+    second: Aligators_60
+  - first:
+      213: -1216470051196794933
+    second: Aligators_61
+  - first:
+      213: -2337716946549601817
+    second: Aligators_62
+  - first:
+      213: -3792305497441196410
+    second: Aligators_63
+  - first:
+      213: 9052115924027239930
+    second: Aligators_64
+  - first:
+      213: -2567386672696355982
+    second: Aligators_65
+  - first:
+      213: -6872500971477958100
+    second: Aligators_66
+  - first:
+      213: 7809879578709842105
+    second: Aligators_67
+  - first:
+      213: 1270671838985759592
+    second: Aligators_68
+  - first:
+      213: 2100134294417971479
+    second: Aligators_69
+  - first:
+      213: -5727865678222898786
+    second: Aligators_70
+  - first:
+      213: 9178866462248217
+    second: Aligators_71
+  - first:
+      213: -8737352995556508943
+    second: Aligators_72
+  - first:
+      213: -6422035986928778629
+    second: Aligators_73
+  - first:
+      213: -1331520894369351283
+    second: Aligators_74
+  - first:
+      213: 2892413054111449536
+    second: Aligators_75
+  - first:
+      213: 8976593076480102242
+    second: Aligators_76
+  - first:
+      213: -4494495609483021156
+    second: Aligators_77
+  - first:
+      213: -8412686231083051967
+    second: Aligators_78
+  - first:
+      213: -400585128527929464
+    second: Aligators_79
+  - first:
+      213: 3760206669284849476
+    second: Aligators_80
+  - first:
+      213: 3780526716707493487
+    second: Aligators_81
+  - first:
+      213: 1548685436373706472
+    second: Aligators_82
+  - first:
+      213: 8186684276184472466
+    second: Aligators_83
+  - first:
+      213: -5437689973184961287
+    second: Aligators_84
+  - first:
+      213: -2793141850336900545
+    second: Aligators_85
+  - first:
+      213: 2039188271313849198
+    second: Aligators_86
+  - first:
+      213: 5471402688467275782
+    second: Aligators_87
+  - first:
+      213: -1808603652494197198
+    second: Aligators_88
+  - first:
+      213: -71362033769058588
+    second: Aligators_89
+  - first:
+      213: 617292442277269526
+    second: Aligators_90
+  - first:
+      213: 2276521310957936535
+    second: Aligators_91
+  - first:
+      213: -5047106754296775123
+    second: Aligators_92
+  - first:
+      213: 7579720853027563492
+    second: Aligators_93
+  - first:
+      213: -7827560585033304054
+    second: Aligators_94
+  - first:
+      213: -6054336765239680173
+    second: Aligators_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aligators_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 674
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678c1922476820e60800000000000000
+      internalID: 7927046127479801974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 675
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26d6ed45845c0fc0800000000000000
+      internalID: -3527351476623583700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 674
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d2c5e8c10aad4d0800000000000000
+      internalID: -3108996548237972216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 674
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cfc40b2cb74e420800000000000000
+      internalID: 2658385756167142514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 675
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e652a706db3050340800000000000000
+      internalID: 4829270287327044974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 674
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc2a1401c5209c30800000000000000
+      internalID: 4364029549849750773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 674
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d87838add8f50c60800000000000000
+      internalID: 7783901161873504467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 675
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888ffb27a54eb430800000000000000
+      internalID: 3800551719847299212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_8
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 674
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934a3326a756ac6f0800000000000000
+      internalID: -663606418775759815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_9
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 674
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef8c29f784d0550800000000000000
+      internalID: 6128634380681805495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_10
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 675
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e38d61e337a8d80800000000000000
+      internalID: -8247653057067205003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_11
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 674
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54826c9faf50ea50800000000000000
+      internalID: 6548339066044318811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 624
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e5b96f065765970800000000000000
+      internalID: 8743304785901084244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 624
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed5e5741048abe0800000000000000
+      internalID: -1465851222087573853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 624
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31de03274d92bd40800000000000000
+      internalID: 5598710215631360317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 624
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6102cba21136c00800000000000000
+      internalID: 892576026392008435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 624
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad89d439827b13f0800000000000000
+      internalID: -929022964499116637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_17
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 624
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c128678d2fba5510800000000000000
+      internalID: 1538752424966627783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 624
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c31a5d81ca00e0800000000000000
+      internalID: -2302815446600793015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 624
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf0db42549f0b540800000000000000
+      internalID: 5021787659882532800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_20
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 624
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfd66c6bfc8e0c50800000000000000
+      internalID: 6633394312646680517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_21
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 624
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4742de0b722fe0800000000000000
+      internalID: -1215273645848966518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_22
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 624
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ecd0729e53f150800000000000000
+      internalID: 5905167519464612285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_23
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 624
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc1c5e762d3ee90800000000000000
+      internalID: -6997518052325470463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007005332a1ab2280800000000000000
+      internalID: -9066975706762705152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2860ab78f39329c70800000000000000
+      internalID: 8976299952325658242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc8790dda6ec360800000000000000
+      internalID: 7191803152536489306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b88f3a4e3e5e060800000000000000
+      internalID: 6982237368450845477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cb346bee43fd0e0800000000000000
+      internalID: -2243015889542464457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6434b12ac7e6de9a0800000000000000
+      internalID: -6202179630244609210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8409656887bdfec00800000000000000
+      internalID: 932204958585360456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af06b18e887c0b0800000000000000
+      internalID: -5708443472195683835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 528
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ded0dfd04be7270800000000000000
+      internalID: 8250229539562450193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 528
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f05b8a0e01900d0800000000000000
+      internalID: -3456212681940988102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 528
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27091d4803d7f95a0800000000000000
+      internalID: -6512348888814219150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_35
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 528
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f030c3bc72a02a60800000000000000
+      internalID: 7647290823750463734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 388
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c5b9db9deed35c0800000000000000
+      internalID: -4233965455702008780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 389
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fa0cb2ebfa27000800000000000000
+      internalID: 32281378657709976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 388
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956f93127c6e7fa20800000000000000
+      internalID: 3096197011770832473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 388
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae0990e15b6c5900800000000000000
+      internalID: 674532043603381923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_40
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 389
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd275d80e18356bb0800000000000000
+      internalID: -4943483314320870692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 388
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652483438c5611900800000000000000
+      internalID: 653415331489399382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_42
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 388
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37864d374b8069f40800000000000000
+      internalID: 5734780746633341043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_43
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 389
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7d60b5f19153020800000000000000
+      internalID: 2320788805441214374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_44
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 388
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34687b8fd324f11d0800000000000000
+      internalID: -3377908361571367357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_45
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 388
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6bd7909d0c0d690800000000000000
+      internalID: -7579346134464874790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_46
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 389
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250dd32586360cb0800000000000000
+      internalID: -4898167599258598100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_47
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 388
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f203c03a5b0d0f0800000000000000
+      internalID: -1094174997562249362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 290
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d13bf306c90da80800000000000000
+      internalID: -8444077364120183399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 291
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abeac2fd4f042940800000000000000
+      internalID: 5270354291390606243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 290
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3892c92d53de9900800000000000000
+      internalID: 693223789747673150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 290
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d597b853a9aa94d30800000000000000
+      internalID: 4416248488913500509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 291
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846eb7faf185a5490800000000000000
+      internalID: -7756790515080894904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 290
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b08148ff8095c0800000000000000
+      internalID: -4210707355177797399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_54
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 290
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b46698021c50ed60800000000000000
+      internalID: 7917429377440572594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 291
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665aa1353878c9cd0800000000000000
+      internalID: -2550014290893822618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_56
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 290
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad2f15d25e3a4b0800000000000000
+      internalID: -5430244742867526924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_57
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 290
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2a092fc21ec3d0800000000000000
+      internalID: -3184587205548299656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_58
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 291
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f54a05bffdd45e60800000000000000
+      internalID: 7950223332539516407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_59
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 290
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340909a7df9c63a50800000000000000
+      internalID: 6500605202676092995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb210d3347828e50800000000000000
+      internalID: 6810154309393656780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7838efeea3e1fe0800000000000000
+      internalID: -1216470051196794933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e90087a2d2ce8fd0800000000000000
+      internalID: -2337716946549601817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_63
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 240
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686a1491e360f5bc0800000000000000
+      internalID: -3792305497441196410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 240
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdec4509739f9d70800000000000000
+      internalID: 9052115924027239930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_65
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 240
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739cdc7c6fce5cd0800000000000000
+      internalID: -2567386672696355982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_66
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 240
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22878c47c8ff90a0800000000000000
+      internalID: -6872500971477958100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_67
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 240
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8d39b2914426c60800000000000000
+      internalID: 7809879578709842105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_68
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 240
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ba6d42e4552a110800000000000000
+      internalID: 1270671838985759592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_69
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 240
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191667830d252d10800000000000000
+      internalID: 2100134294417971479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_70
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 240
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e994f5063888280b0800000000000000
+      internalID: -5727865678222898786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_71
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 240
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d4ce2612c902000800000000000000
+      internalID: 9178866462248217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab8a63ebfaeb680800000000000000
+      internalID: -8737352995556508943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72c5589b4850e6a0800000000000000
+      internalID: -6422035986928778629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ba102dcc758de0800000000000000
+      internalID: -1331520894369351283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1040a195ae32820800000000000000
+      internalID: 2892413054111449536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc3d0d7d3439c70800000000000000
+      internalID: 8976593076480102242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9436385e0850a1c0800000000000000
+      internalID: -4494495609483021156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1449975f172204b80800000000000000
+      internalID: -8412686231083051967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd9cfa2f5d07af0800000000000000
+      internalID: -400585128527929464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 144
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44737c41b00fe2430800000000000000
+      internalID: 3760206669284849476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_81
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 144
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66593dc401277430800000000000000
+      internalID: 3780526716707493487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_82
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 144
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e620e7f2390e7510800000000000000
+      internalID: 1548685436373706472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_83
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 144
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b504a69f1fc9170800000000000000
+      internalID: 8186684276184472466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f46b9d87c17984b0800000000000000
+      internalID: -5437689973184961287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_85
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a446b2944cc39d0800000000000000
+      internalID: -2793141850336900545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b0ecdbde6ac4c10800000000000000
+      internalID: 2039188271313849198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6009535a1c35eeb40800000000000000
+      internalID: 5471402688467275782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 5
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23efb997f8c86e6e0800000000000000
+      internalID: -1808603652494197198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_89
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeeebebb98720ff0800000000000000
+      internalID: -71362033769058588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_90
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 4
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6105878a430119800800000000000000
+      internalID: 617292442277269526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_91
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 5
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f114f1214d79f10800000000000000
+      internalID: 2276521310957936535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_92
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 4
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7aaec52315f9b0800000000000000
+      internalID: -5047106754296775123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_93
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7245de4f3903960800000000000000
+      internalID: 7579720853027563492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_94
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 5
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08bd3fbe1bee5390800000000000000
+      internalID: -7827560585033304054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligators_95
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 4
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3532d4d0accaafba0800000000000000
+      internalID: -6054336765239680173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -21,7 +21,7 @@ public class Mouvement : MonoBehaviour
 	public Sprite rightSprite;
 	
 	// Awake et FixedUpdate
-	private void Awake() {
+	void Awake() {
 	}
 	
     void FixedUpdate(){	
