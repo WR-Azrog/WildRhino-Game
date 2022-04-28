@@ -5,9 +5,12 @@ using UnityEngine;
 public class iaEnemy : MonoBehaviour
 {
 	public GameObject player;
-	public float iaDifficulty;
-	public Vector3 playerLocation;
 	public Sprite[] sprites;
+	public Rigidbody2D rb;
+	
+	private float moveSpeed = 50;	
+	private float iaDifficulty;
+
 	
     // Start is called before the first frame update
     void Start()
@@ -23,7 +26,24 @@ public class iaEnemy : MonoBehaviour
     }
 	
 	void enemyMove(Vector3 playerLoc) {
-		playerLocation = playerLoc;
+		
+		//Creation du vecteur de déplacement
+		Vector3 direction = playerLoc - transform.position; 
+		
+		// Mise à jour du vecteur de déplacement en fonction de la vitesse
+		float horizontalMovement = direction.x * moveSpeed * Time.deltaTime;
+		float verticalMovement = direction.y * moveSpeed * Time.deltaTime;
+		Vector3 targetVelocity = new Vector3(horizontalMovement, verticalMovement, 0);
+		
+		//Rotation + Déplacement
+		transform.eulerAngles = new Vector3(0, 0, GetAngleFromVector(targetVelocity));		
+		rb.velocity = targetVelocity;
 	}
 	
+	// Fonction math transformation Vecteur3 en angle
+	private float GetAngleFromVector(Vector3 dir) {
+		float n = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+		n += 90;
+		return n;
+	}
 }
