@@ -15,10 +15,6 @@ public class Mouvement : MonoBehaviour
 	public float moveSpeed = 0;
 	
 	public SpriteRenderer spriteRenderer;
-	public Sprite upSprite;
-	public Sprite downSprite;
-	public Sprite leftSprite;
-	public Sprite rightSprite;
 	
 	// Awake et FixedUpdate
 	void Awake() {}
