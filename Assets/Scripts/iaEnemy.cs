@@ -46,4 +46,12 @@ public class iaEnemy : MonoBehaviour
 		n += 90;
 		return n;
 	}
+	
+	// En cas de collision
+	private void OnCollisionEnter2D(Collision2D collision){
+		if(collision.transform.CompareTag("Player")){
+			PlayerHealth playerhealth = collision.transform.GetComponent<PlayerHealth>();
+			playerhealth.TakeDamage(10);
+		}
+	}
 }

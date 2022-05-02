@@ -7,6 +7,10 @@ public class PlayerHealth : MonoBehaviour
     public int maxHealth = 100;
 	public int currentHealth;
 	
+	public bool isInvincible = false;
+	
+	
+	public SpriteRenderer graphics;
 	public Health healthBar;
 	
     void Start()
@@ -20,9 +24,30 @@ public class PlayerHealth : MonoBehaviour
 	if (Input.GetKeyDown(KeyCode.H)){TakeDamage(10);}
     }
 	
-	void TakeDamage(int damage)
+	public void TakeDamage(int damage)
 	{
-		currentHealth -= damage;
-		healthBar.SetHealth(currentHealth);
+		if (!isInvincible){
+			
+			currentHealth -= damage;
+			healthBar.SetHealth(currentHealth);
+			isInvincible=true;
+			StartCoroutine(InvincibilityFlash());
+			StartCoroutine(HandleInvincibleDelay());
+		}
+		
+	}
+	
+	public IEnumerator InvincibilityFlash(){
+		while (isInvincible){
+			graphics.color = new Color(1f, 1f, 1f, 0f);
+			yield return new WaitForSeconds(0.2f);
+			graphics.color = new Color(1f, 1f, 1f, 1f);
+			yield return new WaitForSeconds(0.2f);
+		}
+	}
+	
+	public IEnumerator HandleInvincibleDelay(){
+		yield return new WaitForSeconds(3f);
+		isInvincible = false;
 	}
 }
