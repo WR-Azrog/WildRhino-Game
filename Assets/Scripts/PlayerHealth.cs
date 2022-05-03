@@ -8,8 +8,7 @@ public class PlayerHealth : MonoBehaviour
 	public int currentHealth;
 	
 	public bool isInvincible = false;
-	
-	
+	 
 	public SpriteRenderer graphics;
 	public Health healthBar;
 	
@@ -26,15 +25,11 @@ public class PlayerHealth : MonoBehaviour
 	
 	public void TakeDamage(int damage)
 	{
-		if (!isInvincible){
-			
-			currentHealth -= damage;
-			healthBar.SetHealth(currentHealth);
-			isInvincible=true;
-			StartCoroutine(InvincibilityFlash());
-			StartCoroutine(HandleInvincibleDelay());
-		}
-		
+		currentHealth -= damage;
+		healthBar.SetHealth(currentHealth);
+		isInvincible=true;
+		StartCoroutine(InvincibilityFlash());
+		StartCoroutine(HandleInvincibleDelay());
 	}
 	
 	public IEnumerator InvincibilityFlash(){

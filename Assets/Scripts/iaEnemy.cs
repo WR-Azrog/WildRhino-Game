@@ -7,6 +7,9 @@ public class iaEnemy : MonoBehaviour
 	public GameObject player;
 	public Sprite[] sprites;
 	public Rigidbody2D rb;
+	public int mobArmor = 4; 
+	
+	public Mouvement playerCharge;
 	
 	private float moveSpeed = 50;	
 	private float iaDifficulty;
@@ -25,6 +28,22 @@ public class iaEnemy : MonoBehaviour
 		enemyMove(player.transform.position);    
     }
 	
+	// En cas de collision
+	private void OnCollisionEnter2D(Collision2D collision){
+		if(collision.transform.CompareTag("Player")){
+			if (mobArmor < playerCharge.moveSpeed/100){
+				Destroy(gameObject);
+			}
+			
+			else{
+			PlayerHealth playerhealth = collision.transform.GetComponent<PlayerHealth>();
+			playerhealth.TakeDamage(10);
+			}
+		}
+	}
+	
+	
+	//
 	void enemyMove(Vector3 playerLoc) {
 		
 		//Creation du vecteur de déplacement
@@ -45,13 +64,5 @@ public class iaEnemy : MonoBehaviour
 		float n = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
 		n += 90;
 		return n;
-	}
-	
-	// En cas de collision
-	private void OnCollisionEnter2D(Collision2D collision){
-		if(collision.transform.CompareTag("Player")){
-			PlayerHealth playerhealth = collision.transform.GetComponent<PlayerHealth>();
-			playerhealth.TakeDamage(10);
-		}
 	}
 }
