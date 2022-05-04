@@ -32,7 +32,8 @@ public class iaEnemy : MonoBehaviour
 	private void OnCollisionEnter2D(Collision2D collision){
 		if(collision.transform.CompareTag("Player")){
 			if (mobArmor < playerCharge.moveSpeed/100){
-				Destroy(gameObject);
+				Score.instance.AddScore(100);
+				Destroy(gameObject);				
 			}
 			
 			else{

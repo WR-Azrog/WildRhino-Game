@@ -25,11 +25,13 @@ public class PlayerHealth : MonoBehaviour
 	
 	public void TakeDamage(int damage)
 	{
+		if (!isInvincible){
 		currentHealth -= damage;
 		healthBar.SetHealth(currentHealth);
 		isInvincible=true;
 		StartCoroutine(InvincibilityFlash());
 		StartCoroutine(HandleInvincibleDelay());
+		}
 	}
 	
 	public IEnumerator InvincibilityFlash(){
