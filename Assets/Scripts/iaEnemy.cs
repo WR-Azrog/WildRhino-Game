@@ -14,6 +14,7 @@ public class iaEnemy : MonoBehaviour
 	private float moveSpeed = 50;	
 	private float iaDifficulty;
 
+	public GameOver gameOver;
 	
     // Start is called before the first frame update
     void Start()
@@ -25,7 +26,9 @@ public class iaEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		enemyMove(player.transform.position);    
+		if (!gameOver.gameOver){
+		enemyMove(player.transform.position);
+		}
     }
 	
 	// En cas de collision
