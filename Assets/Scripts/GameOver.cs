@@ -5,7 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class GameOver : MonoBehaviour
 {
-	private void gameOver(){
-		SceneManager.LoadScene("");
+	public bool gameOver = false;
+	
+	public GameObject player;
+	public GameObject overMenu;
+	
+	public void endGame(){
+		gameOver = true;
+		Score.instance.FinalScore();
+		Destroy(player);
+		overMenu.SetActive(true);
 	}
 }

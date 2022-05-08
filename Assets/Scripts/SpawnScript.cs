@@ -5,6 +5,8 @@ using UnityEngine;
 public class SpawnScript : MonoBehaviour
 {
 	public GameObject[] Objects;
+	
+	public GameOver gameOver;
 
     void Start()
     {
@@ -12,6 +14,7 @@ public class SpawnScript : MonoBehaviour
     }
 	
 	void enemyGenerator(){
+		if (!gameOver.gameOver){
 		// Pioche un enemy aléatoire dans la liste.
 		int rand = Random.Range(0, Objects.Length);
 				
@@ -26,5 +29,6 @@ public class SpawnScript : MonoBehaviour
 		
 		//Active l'objet
 		obj.SetActive(true);
+		}
 	}
 }

@@ -9,6 +9,7 @@ public class Score : MonoBehaviour
 	public static Score instance;
 	public bool party = true;
 	public Text scoreUpdate;
+	public Text finalScore;
 	
     void Start()
     {
@@ -29,5 +30,10 @@ public class Score : MonoBehaviour
 		yield return new WaitForSeconds(1f);
 		
 		}
+	}
+	
+	public void FinalScore(){
+		party = false;
+		finalScore.text = scoreCount.ToString();
 	}
 }

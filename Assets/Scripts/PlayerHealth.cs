@@ -12,6 +12,8 @@ public class PlayerHealth : MonoBehaviour
 	public SpriteRenderer graphics;
 	public Health healthBar;
 	
+	public GameOver gameOver;
+	
     void Start()
     {
         currentHealth = maxHealth;
@@ -20,7 +22,8 @@ public class PlayerHealth : MonoBehaviour
 
     void Update()
     {
-	if (Input.GetKeyDown(KeyCode.H)){TakeDamage(10);}
+		if (Input.GetKeyDown(KeyCode.H)){TakeDamage(101);}
+		if (currentHealth < 1){gameOver.endGame();}
     }
 	
 	public void TakeDamage(int damage)
