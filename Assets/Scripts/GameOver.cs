@@ -13,6 +13,7 @@ public class GameOver : MonoBehaviour
 	public void endGame(){
 		gameOver = true;
 		Score.instance.FinalScore();
+		SaveData.instance.SaveToJson();
 		Destroy(player);
 		overMenu.SetActive(true);
 	}
