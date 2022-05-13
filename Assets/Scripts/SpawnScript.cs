@@ -7,28 +7,38 @@ public class SpawnScript : MonoBehaviour
 	public GameObject[] Objects;
 	
 	public GameOver gameOver;
+	
+	public Transform[] sp;
+	private Vector3 pos;
 
     void Start()
     {
-        InvokeRepeating("enemyGenerator", 5.0f, 10.0f);
+		SpawnCreator();
+        InvokeRepeating("enemyGenerator", 5.0f, 1.0f);	
     }
 	
 	void enemyGenerator(){
 		if (!gameOver.gameOver){
-		// Pioche un enemy aléatoire dans la liste.
+		// Pioche une IA aléatoire dans la liste.
 		int rand = Random.Range(0, Objects.Length);
-				
-		//Génération aléatoir de son spawn
-		Vector3 pos = new Vector3(
-		Random.Range(-5f, 5f),
-		Random.Range(-5f, 5f),
-		(0));
 		
-		//Instantie et place l'objet
+		//Assigne la position de l'ennemi a un des spawner aléatoirement dans le list sp.	
+		pos = sp[Random.Range(0, sp.Length)].transform.position;
+		
+		//Instantie et place l'objet et bloque la rotation avec Quaternion.
 		GameObject obj = Instantiate(Objects[rand], pos, Quaternion.identity);
 		
 		//Active l'objet
 		obj.SetActive(true);
+		}
+	}
+	
+	void SpawnCreator(){
+		// Crée la largeur du tableau de spawnpoint
+		sp = new Transform[transform.childCount];
+		
+		for (int i=0; i<transform.childCount; i++){
+			sp[i] = transform.GetChild(i);
 		}
 	}
 }

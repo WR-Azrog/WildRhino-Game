@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: b2a7e6c9e776d7b4394d9b5954284080
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1196315820242152598
+    second: cobras_0
+  - first:
+      213: 6590794344290123434
+    second: cobras_1
+  - first:
+      213: 5226193191867095492
+    second: cobras_2
+  - first:
+      213: 3222510764704806967
+    second: cobras_3
+  - first:
+      213: -6076731492900404749
+    second: cobras_4
+  - first:
+      213: 3092827022111794547
+    second: cobras_5
+  - first:
+      213: -3537576684816497036
+    second: cobras_6
+  - first:
+      213: -7446700748304594138
+    second: cobras_7
+  - first:
+      213: -8140357788242883634
+    second: cobras_8
+  - first:
+      213: 741565685511939398
+    second: cobras_9
+  - first:
+      213: 4716406042033560960
+    second: cobras_10
+  - first:
+      213: -863993825218944747
+    second: cobras_11
+  - first:
+      213: 7233132206096543217
+    second: cobras_12
+  - first:
+      213: -4773721467143220093
+    second: cobras_13
+  - first:
+      213: -6818202350106323636
+    second: cobras_14
+  - first:
+      213: 4539230934934165126
+    second: cobras_15
+  - first:
+      213: -313714335470521934
+    second: cobras_16
+  - first:
+      213: -989053973807851478
+    second: cobras_17
+  - first:
+      213: 4875462601444157175
+    second: cobras_18
+  - first:
+      213: 6524550349301945383
+    second: cobras_19
+  - first:
+      213: 2766176379989411595
+    second: cobras_20
+  - first:
+      213: -1715678137534516269
+    second: cobras_21
+  - first:
+      213: -4988043184900629889
+    second: cobras_22
+  - first:
+      213: 4346433278353820335
+    second: cobras_23
+  - first:
+      213: -7263139618089423539
+    second: cobras_24
+  - first:
+      213: 1756641085894826600
+    second: cobras_25
+  - first:
+      213: 3376935090199048626
+    second: cobras_26
+  - first:
+      213: -5069562074294885718
+    second: cobras_27
+  - first:
+      213: -8131713549591230648
+    second: cobras_28
+  - first:
+      213: -2075025665725193322
+    second: cobras_29
+  - first:
+      213: 2504042275895228886
+    second: cobras_30
+  - first:
+      213: 1248549812224285028
+    second: cobras_31
+  - first:
+      213: -6849255544501470368
+    second: cobras_32
+  - first:
+      213: -7627362721572230505
+    second: cobras_33
+  - first:
+      213: 5047940072260818107
+    second: cobras_34
+  - first:
+      213: 1818066261794090706
+    second: cobras_35
+  - first:
+      213: -5694647572476204644
+    second: cobras_36
+  - first:
+      213: 6299712400857990426
+    second: cobras_37
+  - first:
+      213: -993063124238859873
+    second: cobras_38
+  - first:
+      213: 6280261510914182100
+    second: cobras_39
+  - first:
+      213: 2157735965677276004
+    second: cobras_40
+  - first:
+      213: 6412237284241303623
+    second: cobras_41
+  - first:
+      213: 2174692773169877270
+    second: cobras_42
+  - first:
+      213: -6982883967630879334
+    second: cobras_43
+  - first:
+      213: -1913175738324227220
+    second: cobras_44
+  - first:
+      213: 4060158954694652332
+    second: cobras_45
+  - first:
+      213: -7723005952305750110
+    second: cobras_46
+  - first:
+      213: -366610953590655300
+    second: cobras_47
+  - first:
+      213: 2431923489579141698
+    second: cobras_48
+  - first:
+      213: -5951629161774721516
+    second: cobras_49
+  - first:
+      213: -5459189947145952826
+    second: cobras_50
+  - first:
+      213: 2259274441251300871
+    second: cobras_51
+  - first:
+      213: 1501855670699881420
+    second: cobras_52
+  - first:
+      213: -9103728801790126274
+    second: cobras_53
+  - first:
+      213: 2521588879472644473
+    second: cobras_54
+  - first:
+      213: 3318122534192634074
+    second: cobras_55
+  - first:
+      213: 2521983891065366652
+    second: cobras_56
+  - first:
+      213: -2312146002318708534
+    second: cobras_57
+  - first:
+      213: 4079219148547745336
+    second: cobras_58
+  - first:
+      213: 2044410980062028707
+    second: cobras_59
+  - first:
+      213: 5859860662256237667
+    second: cobras_60
+  - first:
+      213: -2070444424177216594
+    second: cobras_61
+  - first:
+      213: -507970639867619795
+    second: cobras_62
+  - first:
+      213: 4832377427171906682
+    second: cobras_63
+  - first:
+      213: 828303339199789504
+    second: cobras_64
+  - first:
+      213: 532044985260572610
+    second: cobras_65
+  - first:
+      213: -1072934012436173799
+    second: cobras_66
+  - first:
+      213: 7690227169847185387
+    second: cobras_67
+  - first:
+      213: -6750484337594560227
+    second: cobras_68
+  - first:
+      213: -1222339654088626126
+    second: cobras_69
+  - first:
+      213: -5584508889889546004
+    second: cobras_70
+  - first:
+      213: 6647453342632965387
+    second: cobras_71
+  - first:
+      213: 4888639520674382389
+    second: cobras_72
+  - first:
+      213: -7504571035578261604
+    second: cobras_73
+  - first:
+      213: -3887988361403011150
+    second: cobras_74
+  - first:
+      213: -2590939605941181797
+    second: cobras_75
+  - first:
+      213: 866284629056583920
+    second: cobras_76
+  - first:
+      213: 6267504327653728889
+    second: cobras_77
+  - first:
+      213: 2479859830579573326
+    second: cobras_78
+  - first:
+      213: -1099916088492960036
+    second: cobras_79
+  - first:
+      213: 692839497778370042
+    second: cobras_80
+  - first:
+      213: -806823993570957526
+    second: cobras_81
+  - first:
+      213: 5980895373040152041
+    second: cobras_82
+  - first:
+      213: 9054138915428647944
+    second: cobras_83
+  - first:
+      213: 6278289679539080038
+    second: cobras_84
+  - first:
+      213: 6393260215796137462
+    second: cobras_85
+  - first:
+      213: 8850321766579153884
+    second: cobras_86
+  - first:
+      213: -4311796264372127792
+    second: cobras_87
+  - first:
+      213: -2932852387701224434
+    second: cobras_88
+  - first:
+      213: -5413168715306928755
+    second: cobras_89
+  - first:
+      213: -2603320677601547917
+    second: cobras_90
+  - first:
+      213: 7245380607757242288
+    second: cobras_91
+  - first:
+      213: 6555745146892935822
+    second: cobras_92
+  - first:
+      213: 3289442397606460980
+    second: cobras_93
+  - first:
+      213: -4536886506338216559
+    second: cobras_94
+  - first:
+      213: 7675568432508055102
+    second: cobras_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobras_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 340
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63594f8915d56fe0800000000000000
+      internalID: -1196315820242152598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 341
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaef01f5984377b50800000000000000
+      internalID: 6590794344290123434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 340
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c99dc8b40b278840800000000000000
+      internalID: 5226193191867095492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 340
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383a178778a8bc20800000000000000
+      internalID: 3222510764704806967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 341
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10e3237ec1baba0800000000000000
+      internalID: -6076731492900404749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 340
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375e3b44acdebea20800000000000000
+      internalID: 3092827022111794547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 340
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760fcf7fb008eec0800000000000000
+      internalID: -3537576684816497036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 341
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b4bacaf1108a890800000000000000
+      internalID: -7446700748304594138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 340
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc23798b3a70f80800000000000000
+      internalID: -8140357788242883634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 340
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ee8edf029a4a00800000000000000
+      internalID: 741565685511939398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 341
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d9aef7e4a047140800000000000000
+      internalID: 4716406042033560960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 340
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511a1bf813a7204f0800000000000000
+      internalID: -863993825218944747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 290
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd62dd2b6f316460800000000000000
+      internalID: 7233132206096543217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 290
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384954e2e9550cdb0800000000000000
+      internalID: -4773721467143220093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 291
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45dd234611e061a0800000000000000
+      internalID: -6818202350106323636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 290
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68617364c769efe30800000000000000
+      internalID: 4539230934934165126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 290
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f459597675abf0800000000000000
+      internalID: -313714335470521934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 291
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a289e7ba6ac2642f0800000000000000
+      internalID: -989053973807851478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 290
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e7ca976f19a340800000000000000
+      internalID: 4875462601444157175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 290
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241b4169fbdb8a50800000000000000
+      internalID: 6524550349301945383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 291
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07485303ce636620800000000000000
+      internalID: 2766176379989411595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 290
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f95fe2dfa038e0800000000000000
+      internalID: -1715678137534516269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 290
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a90bfa629e6cab0800000000000000
+      internalID: -4988043184900629889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 291
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa473cc902a15c30800000000000000
+      internalID: 4346433278353820335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da6b5cff4243b90800000000000000
+      internalID: -7263139618089423539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 242
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1e92b2c7d06810800000000000000
+      internalID: 1756641085894826600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 243
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1bdd0a2984dde20800000000000000
+      internalID: 3376935090199048626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 242
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26cd2372c45a9b0800000000000000
+      internalID: -5069562074294885718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 242
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847426d3c99562f80800000000000000
+      internalID: -8131713549591230648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 243
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693a1a6a6270433e0800000000000000
+      internalID: -2075025665725193322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 242
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9bb45de2520c220800000000000000
+      internalID: 2504042275895228886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 242
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469520a607db35110800000000000000
+      internalID: 1248549812224285028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 243
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b7d160f5e82f0a0800000000000000
+      internalID: -6849255544501470368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 242
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a61a7240a262690800000000000000
+      internalID: -7627362721572230505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 242
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4d09620c2ed0640800000000000000
+      internalID: 5047940072260818107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 243
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deeb50f1a11b3910800000000000000
+      internalID: 1818066261794090706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99e381543c88f0b0800000000000000
+      internalID: -5694647572476204644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1583402d031d6750800000000000000
+      internalID: 6299712400857990426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f910438995ee732f0800000000000000
+      internalID: -993063124238859873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db0996e198f72750800000000000000
+      internalID: 6280261510914182100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b4749bd61d1fd10800000000000000
+      internalID: 2157735965677276004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e7b626d7dcf850800000000000000
+      internalID: 6412237284241303623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61156602e8f0e2e10800000000000000
+      internalID: 2174692773169877270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9557914700d71f90800000000000000
+      internalID: -6982883967630879334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be94c6dc80375e0800000000000000
+      internalID: -1913175738324227220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca13232ce05985830800000000000000
+      internalID: 4060158954694652332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af969e210f52d490800000000000000
+      internalID: -7723005952305750110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb63674b74989eaf0800000000000000
+      internalID: -366610953590655300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0b45678defb120800000000000000
+      internalID: 2431923489579141698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 149
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416df897fc0976da0800000000000000
+      internalID: -5951629161774721516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c16bf6caaf0d34b0800000000000000
+      internalID: -5459189947145952826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70627e8522e8a5f10800000000000000
+      internalID: 2259274441251300871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 149
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3f8fb76c9a7d410800000000000000
+      internalID: 1501855670699881420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_53
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379ecd63ee09a180800000000000000
+      internalID: -9103728801790126274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971da86d9bb7ef220800000000000000
+      internalID: 2521588879472644473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 149
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad855cb5dd65c0e20800000000000000
+      internalID: 3318122534192634074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_56
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c786534acf2eff220800000000000000
+      internalID: 2521983891065366652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac034fe067b99efd0800000000000000
+      internalID: -2312146002318708534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_58
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 149
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836e826f33c4c9830800000000000000
+      internalID: 4079219148547745336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_59
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3618164f43f5c10800000000000000
+      internalID: 2044410980062028707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c7117b938625150800000000000000
+      internalID: 5859860662256237667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea39ab114cd4443e0800000000000000
+      internalID: -2070444424177216594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 99
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26dc56f46353f8f0800000000000000
+      internalID: -507970639867619795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74923fbaad001340800000000000000
+      internalID: 4832377427171906682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 98
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f54b9f79be7b00800000000000000
+      internalID: 828303339199789504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 99
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cffbfe5814326700800000000000000
+      internalID: 532044985260572610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cae49433c2c11f0800000000000000
+      internalID: -1072934012436173799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 98
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef8ccccddc29ba60800000000000000
+      internalID: 7690227169847185387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 99
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1196d3b2467152a0800000000000000
+      internalID: -6750484337594560227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_69
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 98
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307c239f80690fe0800000000000000
+      internalID: -1222339654088626126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 98
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce06f1da0c6df72b0800000000000000
+      internalID: -5584508889889546004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 99
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05fe9c689f704c50800000000000000
+      internalID: 6647453342632965387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5328bb03ebfe7d340800000000000000
+      internalID: 4888639520674382389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f1ca077686ad790800000000000000
+      internalID: -7504571035578261604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 51
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf68bb4f271b0ac0800000000000000
+      internalID: -3887988361403011150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92a261e7222b0cd0800000000000000
+      internalID: -2590939605941181797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 50
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f87c45c749a50c00800000000000000
+      internalID: 866284629056583920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 51
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9722606baf5aaf650800000000000000
+      internalID: 6267504327653728889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 50
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b476806b3a6220800000000000000
+      internalID: 2479859830579573326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 50
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6d3a625205cb0f0800000000000000
+      internalID: -1099916088492960036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_80
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 51
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af590773ad57d9900800000000000000
+      internalID: 692839497778370042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 50
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27e0f24ad59dc4f0800000000000000
+      internalID: -806823993570957526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 50
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede5d457a8600350800000000000000
+      internalID: 5980895373040152041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 51
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8044a296f53c6ad70800000000000000
+      internalID: 9054138915428647944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8de12337f02750800000000000000
+      internalID: 6278289679539080038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd7a271b4c69b850800000000000000
+      internalID: 6393260215796137462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbabd471c8a2da70800000000000000
+      internalID: 8850321766579153884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d73e36742c6924c0800000000000000
+      internalID: -4311796264372127792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8964da4a6c47d0800000000000000
+      internalID: -2932852387701224434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857fdecbbf80e4b0800000000000000
+      internalID: -5413168715306928755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_90
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379612ff2a52fdbd0800000000000000
+      internalID: -2603320677601547917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_91
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfcfdb6643cc8460800000000000000
+      internalID: 7245380607757242288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e826b8e2a7faafa50800000000000000
+      internalID: 6555745146892935822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_93
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3172be6276ad20800000000000000
+      internalID: 3289442397606460980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_94
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195927b82cdb901c0800000000000000
+      internalID: -4536886506338216559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobras_95
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e28dc82d8158a60800000000000000
+      internalID: 7675568432508055102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

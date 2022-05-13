@@ -4,13 +4,11 @@ using UnityEngine;
 
 public class iaEnemy : MonoBehaviour
 {
-	public GameObject player;
-	public Sprite[] sprites;
-	public Rigidbody2D rb;
-	public int mobArmor = 4; 
-	
+	public GameObject player;	
 	public Mouvement playerCharge;
 	
+	public Rigidbody2D rb;
+	public int mobArmor = 4; 
 	private float moveSpeed = 50;	
 	private float iaDifficulty;
 

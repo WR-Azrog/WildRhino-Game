@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 2e0feffa89e1cb543ad1e76a8f79bfc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2663822411271715425
+    second: crabs_large_0
+  - first:
+      213: 378961206354062807
+    second: crabs_large_1
+  - first:
+      213: 9013106905895971786
+    second: crabs_large_2
+  - first:
+      213: 8539397867088439180
+    second: crabs_large_3
+  - first:
+      213: -7273505403124833645
+    second: crabs_large_4
+  - first:
+      213: -2691273976336804152
+    second: crabs_large_5
+  - first:
+      213: 5059186442724829407
+    second: crabs_large_6
+  - first:
+      213: 5358170227244104205
+    second: crabs_large_7
+  - first:
+      213: -6836952357153465391
+    second: crabs_large_8
+  - first:
+      213: -9053103766501019875
+    second: crabs_large_9
+  - first:
+      213: -3461718718912431214
+    second: crabs_large_10
+  - first:
+      213: 399881235059672110
+    second: crabs_large_11
+  - first:
+      213: -2758230480132385233
+    second: crabs_large_12
+  - first:
+      213: -8463189508166490405
+    second: crabs_large_13
+  - first:
+      213: -7152639345480168401
+    second: crabs_large_14
+  - first:
+      213: 2228151115986786041
+    second: crabs_large_15
+  - first:
+      213: -2141454360101237369
+    second: crabs_large_16
+  - first:
+      213: 3010530187134450509
+    second: crabs_large_17
+  - first:
+      213: 4730674105712014593
+    second: crabs_large_18
+  - first:
+      213: -1669564078417460098
+    second: crabs_large_19
+  - first:
+      213: 4106230696800966413
+    second: crabs_large_20
+  - first:
+      213: 5705374513374948014
+    second: crabs_large_21
+  - first:
+      213: -4479009471598742480
+    second: crabs_large_22
+  - first:
+      213: -2507052156355413123
+    second: crabs_large_23
+  - first:
+      213: -1677903786944999879
+    second: crabs_large_24
+  - first:
+      213: 5207056875299312110
+    second: crabs_large_25
+  - first:
+      213: 6037646687053333133
+    second: crabs_large_26
+  - first:
+      213: -5854229740208176969
+    second: crabs_large_27
+  - first:
+      213: 3616666786104353508
+    second: crabs_large_28
+  - first:
+      213: -9202841056144777790
+    second: crabs_large_29
+  - first:
+      213: 6389597434868524182
+    second: crabs_large_30
+  - first:
+      213: 8468891205240243580
+    second: crabs_large_31
+  - first:
+      213: 5429662146210041532
+    second: crabs_large_32
+  - first:
+      213: 1729254867979901137
+    second: crabs_large_33
+  - first:
+      213: -2276488095397093005
+    second: crabs_large_34
+  - first:
+      213: -8066911306035396459
+    second: crabs_large_35
+  - first:
+      213: -158696626166476829
+    second: crabs_large_36
+  - first:
+      213: -4486531012546124683
+    second: crabs_large_37
+  - first:
+      213: -2259533170542958156
+    second: crabs_large_38
+  - first:
+      213: -1940233335709931715
+    second: crabs_large_39
+  - first:
+      213: -3175346195366676392
+    second: crabs_large_40
+  - first:
+      213: -2026519686075044306
+    second: crabs_large_41
+  - first:
+      213: 3593284211540469985
+    second: crabs_large_42
+  - first:
+      213: 8138275848156415704
+    second: crabs_large_43
+  - first:
+      213: 223358161939609330
+    second: crabs_large_44
+  - first:
+      213: -7947992333138325801
+    second: crabs_large_45
+  - first:
+      213: 4072910518426548550
+    second: crabs_large_46
+  - first:
+      213: -1715537695296785343
+    second: crabs_large_47
+  - first:
+      213: 6681429907740608910
+    second: crabs_large_48
+  - first:
+      213: -1224702974031987006
+    second: crabs_large_49
+  - first:
+      213: 1032956419661651469
+    second: crabs_large_50
+  - first:
+      213: -949826920693911716
+    second: crabs_large_51
+  - first:
+      213: 1950389724437947729
+    second: crabs_large_52
+  - first:
+      213: -2235700191977070487
+    second: crabs_large_53
+  - first:
+      213: -4669983469254606506
+    second: crabs_large_54
+  - first:
+      213: -2257020692381422044
+    second: crabs_large_55
+  - first:
+      213: -7743553652875112135
+    second: crabs_large_56
+  - first:
+      213: 4396097694214082379
+    second: crabs_large_57
+  - first:
+      213: 2682157059261675582
+    second: crabs_large_58
+  - first:
+      213: -1927760829043915081
+    second: crabs_large_59
+  - first:
+      213: 4840377733768439795
+    second: crabs_large_60
+  - first:
+      213: 2946329931625836743
+    second: crabs_large_61
+  - first:
+      213: 536412689101879352
+    second: crabs_large_62
+  - first:
+      213: -6972573541452597465
+    second: crabs_large_63
+  - first:
+      213: -8901653819671764978
+    second: crabs_large_64
+  - first:
+      213: 8375388009235062273
+    second: crabs_large_65
+  - first:
+      213: -4271124197042631574
+    second: crabs_large_66
+  - first:
+      213: 1517590544857074243
+    second: crabs_large_67
+  - first:
+      213: 8840434708963297900
+    second: crabs_large_68
+  - first:
+      213: -2119207802422736851
+    second: crabs_large_69
+  - first:
+      213: 6455625806145986901
+    second: crabs_large_70
+  - first:
+      213: -3578326642475814562
+    second: crabs_large_71
+  - first:
+      213: -8683597353991023625
+    second: crabs_large_72
+  - first:
+      213: -8425404825812900517
+    second: crabs_large_73
+  - first:
+      213: 4129517951188876767
+    second: crabs_large_74
+  - first:
+      213: -5628338932758800421
+    second: crabs_large_75
+  - first:
+      213: -5225323456886553854
+    second: crabs_large_76
+  - first:
+      213: -2827869531983171009
+    second: crabs_large_77
+  - first:
+      213: -8481987034840397226
+    second: crabs_large_78
+  - first:
+      213: 5746510104596247510
+    second: crabs_large_79
+  - first:
+      213: 1902777323844694705
+    second: crabs_large_80
+  - first:
+      213: -5122824084378379760
+    second: crabs_large_81
+  - first:
+      213: -8833493504609839006
+    second: crabs_large_82
+  - first:
+      213: -5529427143910975139
+    second: crabs_large_83
+  - first:
+      213: 4578131176941263088
+    second: crabs_large_84
+  - first:
+      213: -9123837364886531200
+    second: crabs_large_85
+  - first:
+      213: -8167034447318186028
+    second: crabs_large_86
+  - first:
+      213: -3163489785302012195
+    second: crabs_large_87
+  - first:
+      213: -272106273232239777
+    second: crabs_large_88
+  - first:
+      213: -873706362668142555
+    second: crabs_large_89
+  - first:
+      213: -6950619806570856195
+    second: crabs_large_90
+  - first:
+      213: 2230283977697370452
+    second: crabs_large_91
+  - first:
+      213: 603190841087148852
+    second: crabs_large_92
+  - first:
+      213: 1203710523059351951
+    second: crabs_large_93
+  - first:
+      213: 8957482464127067510
+    second: crabs_large_94
+  - first:
+      213: 3584432343188501763
+    second: crabs_large_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crabs_large_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 346
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a33989e5cc7f420800000000000000
+      internalID: 2663822411271715425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 349
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd23689537524500800000000000000
+      internalID: 378961206354062807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 346
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbac883afcf41d70800000000000000
+      internalID: 9013106905895971786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 346
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87e88fcd19028670800000000000000
+      internalID: 8539397867088439180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 349
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3922cde5f515f0b90800000000000000
+      internalID: -7273505403124833645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 346
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61137d39ca6aad0800000000000000
+      internalID: -2691273976336804152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 346
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8e513d347d53640800000000000000
+      internalID: 5059186442724829407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 349
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a75f0de6b0c5a40800000000000000
+      internalID: 5358170227244104205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 346
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db199d0e044e11a0800000000000000
+      internalID: -6836952357153465391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 346
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fa4faf61aec5280800000000000000
+      internalID: -9053103766501019875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 349
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b77e68a2185ffc0800000000000000
+      internalID: -3461718718912431214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 346
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2483185dd9ac8500800000000000000
+      internalID: 399881235059672110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 293
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26dd07fdfbc8b9d0800000000000000
+      internalID: -2758230480132385233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 294
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66ce27bf5bc8a80800000000000000
+      internalID: -8463189508166490405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 293
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0c2e5968bcbc90800000000000000
+      internalID: -7152639345480168401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 293
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6584e72abfbee10800000000000000
+      internalID: 2228151115986786041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 294
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d447bfa960842e0800000000000000
+      internalID: -2141454360101237369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 293
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3db5314d87c920800000000000000
+      internalID: 3010530187134450509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 293
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1057a13f80bb6a140800000000000000
+      internalID: 4730674105712014593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 294
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74cc20015484d8e0800000000000000
+      internalID: -1669564078417460098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 293
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0750a020134cf830800000000000000
+      internalID: 4106230696800966413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 293
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaae74c34ef8d2f40800000000000000
+      internalID: 5705374513374948014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 294
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0343fbbcd9c57d1c0800000000000000
+      internalID: -4479009471598742480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 293
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bfe03c859253dd0800000000000000
+      internalID: -2507052156355413123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 245
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e4cdb4563e6b8e0800000000000000
+      internalID: -1677903786944999879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 246
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee19871d3ae234840800000000000000
+      internalID: 5207056875299312110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 245
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82c02d4ca70ac350800000000000000
+      internalID: 6037646687053333133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 245
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04d5d711991cea0800000000000000
+      internalID: -5854229740208176969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 246
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e224b0b74bf03230800000000000000
+      internalID: 3616666786104353508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 245
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1c1471d0f84080800000000000000
+      internalID: -9202841056144777790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 245
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e51373096ca850800000000000000
+      internalID: 6389597434868524182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 246
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7546c95eab878570800000000000000
+      internalID: 8468891205240243580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 245
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0c3354f80a5b40800000000000000
+      internalID: 5429662146210041532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 245
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d89e04f32c8ff710800000000000000
+      internalID: 1729254867979901137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_34
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 246
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371637a732a4860e0800000000000000
+      internalID: -2276488095397093005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_35
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 245
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5908d2158e29c0090800000000000000
+      internalID: -8066911306035396459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 213
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef4b4262423ccdf0800000000000000
+      internalID: -158696626166476829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 214
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5742a6390d3acb1c0800000000000000
+      internalID: -4486531012546124683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 213
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9239b8d8684a0e0800000000000000
+      internalID: -2259533170542958156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 213
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3763ab9f08e215e0800000000000000
+      internalID: -1940233335709931715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 214
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858f7428577eee3d0800000000000000
+      internalID: -3175346195366676392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 213
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e292d151b50e3e0800000000000000
+      internalID: -2026519686075044306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 213
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8a3edc3f8edd130800000000000000
+      internalID: 3593284211540469985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 214
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60185f3c6f0f070800000000000000
+      internalID: 8138275848156415704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 213
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6381c9017891300800000000000000
+      internalID: 223358161939609330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_45
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 213
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de03c1551f03b190800000000000000
+      internalID: -7947992333138325801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 214
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64934cc8982e58830800000000000000
+      internalID: 4072910518426548550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 213
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144fa013e8f2138e0800000000000000
+      internalID: -1715537695296785343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 154
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89cc82f91539bc50800000000000000
+      internalID: 6681429907740608910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 157
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce7575422bf00fe0800000000000000
+      internalID: -1224702974031987006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 154
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e546e046cc55e00800000000000000
+      internalID: 1032956419661651469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 154
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fafe1b27981d2f0800000000000000
+      internalID: -949826920693911716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 157
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15522baee1d211b10800000000000000
+      internalID: 1950389724437947729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 154
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9602fe8458239f0e0800000000000000
+      internalID: -2235700191977070487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 154
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651022007c2e03fb0800000000000000
+      internalID: -4669983469254606506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 157
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e26e373a37da0e0800000000000000
+      internalID: -2257020692381422044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_56
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 154
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9315335dafe598490800000000000000
+      internalID: -7743553652875112135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_57
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 154
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f4b85bf83120d30800000000000000
+      internalID: 4396097694214082379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 157
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38391d72afe83520800000000000000
+      internalID: 2682157059261675582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 154
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ccec5db73f35e0800000000000000
+      internalID: -1927760829043915081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f76af747e97c2340800000000000000
+      internalID: 4840377733768439795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 102
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b8a5667773e820800000000000000
+      internalID: 2946329931625836743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 101
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fdeaaf78b17700800000000000000
+      internalID: 536412689101879352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 101
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273e6b6e417c3f90800000000000000
+      internalID: -6972573541452597465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 102
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0027f49309f67480800000000000000
+      internalID: -8901653819671764978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 101
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e958a050b5b3470800000000000000
+      internalID: 8375388009235062273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 101
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc2b31c2be9b4c0800000000000000
+      internalID: -4271124197042631574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 102
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a82bc5f809f0510800000000000000
+      internalID: 1517590544857074243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 101
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a8ac777888faa70800000000000000
+      internalID: 8840434708963297900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_69
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 101
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d284b535bbf0792e0800000000000000
+      internalID: -2119207802422736851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_70
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 102
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5512d22a77df69950800000000000000
+      internalID: 6455625806145986901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 101
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51b9e0a0ea375ec0800000000000000
+      internalID: -3578326642475814562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 53
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d7d6d63aad7780800000000000000
+      internalID: -8683597353991023625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556f8c53f2f21b80800000000000000
+      internalID: -8425404825812900517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 53
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd363e82befe4930800000000000000
+      internalID: 4129517951188876767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 53
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd719659f8f14e1b0800000000000000
+      internalID: -5628338932758800421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c2cb300ceb77b0800000000000000
+      internalID: -5225323456886553854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_77
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 53
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f323ef2b4a361c8d0800000000000000
+      internalID: -2827869531983171009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_78
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 53
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8ed63bbde94a80800000000000000
+      internalID: -8481987034840397226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_79
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 54
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f6aa6e74bfbf40800000000000000
+      internalID: 5746510104596247510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 53
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b27e6a05e5086a10800000000000000
+      internalID: 1902777323844694705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_81
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 53
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a9fcb13a218e8b0800000000000000
+      internalID: -5122824084378379760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_82
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 54
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268920c9570296580800000000000000
+      internalID: -8833493504609839006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 53
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5998cb0f478343b0800000000000000
+      internalID: -5529427143910975139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 21
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f899b8ac0ac88f30800000000000000
+      internalID: 4578131176941263088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083908db14e916180800000000000000
+      internalID: -9123837364886531200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d78833e07dd8ae80800000000000000
+      internalID: -8167034447318186028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_87
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde2f781dc60914d0800000000000000
+      internalID: -3163489785302012195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 22
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5346d249c8493cf0800000000000000
+      internalID: -272106273232239777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_89
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 21
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520ba2731b8ffd3f0800000000000000
+      internalID: -873706362668142555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_90
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 21
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0cc84ac107a8f90800000000000000
+      internalID: -6950619806570856195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 22
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a5ee067f83fe10800000000000000
+      internalID: 2230283977697370452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_92
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 21
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c4c6cfd6fe5800800000000000000
+      internalID: 603190841087148852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_93
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 21
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f813a5bd75074b010800000000000000
+      internalID: 1203710523059351951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_94
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 22
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a514a7de5f4c70800000000000000
+      internalID: 8957482464127067510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crabs_large_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 21
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305fb2999367eb130800000000000000
+      internalID: 3584432343188501763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

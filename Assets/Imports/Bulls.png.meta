@@ -1,0 +1,2220 @@
+fileFormatVersion: 2
+guid: 413680ce3c65fce4fac6e1129810eb99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4360762596362870175
+    second: Bulls_0
+  - first:
+      213: -6504939653700309579
+    second: Bulls_1
+  - first:
+      213: -895176926771664011
+    second: Bulls_2
+  - first:
+      213: -1897298653796214825
+    second: Bulls_3
+  - first:
+      213: -7035652710327788814
+    second: Bulls_4
+  - first:
+      213: 2919873450995351549
+    second: Bulls_5
+  - first:
+      213: -893527998428258938
+    second: Bulls_6
+  - first:
+      213: 8133863727603926916
+    second: Bulls_7
+  - first:
+      213: 1519318110492538508
+    second: Bulls_8
+  - first:
+      213: 1343423733445122593
+    second: Bulls_9
+  - first:
+      213: 8151629232542716504
+    second: Bulls_10
+  - first:
+      213: -2387585158111605900
+    second: Bulls_11
+  - first:
+      213: 660780208131367320
+    second: Bulls_12
+  - first:
+      213: -6998143314281419509
+    second: Bulls_13
+  - first:
+      213: -7329531719230783484
+    second: Bulls_14
+  - first:
+      213: 8964842474565041725
+    second: Bulls_15
+  - first:
+      213: -7932469813513011217
+    second: Bulls_16
+  - first:
+      213: -2189604164106783956
+    second: Bulls_17
+  - first:
+      213: -8873019286474898259
+    second: Bulls_18
+  - first:
+      213: -8797175409458166077
+    second: Bulls_19
+  - first:
+      213: 3567589716833309846
+    second: Bulls_20
+  - first:
+      213: 7191387466231270275
+    second: Bulls_21
+  - first:
+      213: -6867262599821802175
+    second: Bulls_22
+  - first:
+      213: -879316761800924700
+    second: Bulls_23
+  - first:
+      213: 278883018557786999
+    second: Bulls_24
+  - first:
+      213: 6483786743480111389
+    second: Bulls_25
+  - first:
+      213: 8858971581433621960
+    second: Bulls_26
+  - first:
+      213: 5066824725277171936
+    second: Bulls_27
+  - first:
+      213: 1615369318699152583
+    second: Bulls_28
+  - first:
+      213: -3622239433138475853
+    second: Bulls_29
+  - first:
+      213: 7192871925852183747
+    second: Bulls_30
+  - first:
+      213: -3329864242204671451
+    second: Bulls_31
+  - first:
+      213: -7772538863196507948
+    second: Bulls_32
+  - first:
+      213: -288089261040890016
+    second: Bulls_33
+  - first:
+      213: 2073633892849728735
+    second: Bulls_34
+  - first:
+      213: -1775575914097127560
+    second: Bulls_35
+  - first:
+      213: -5113450334496362171
+    second: Bulls_36
+  - first:
+      213: -1402902578335572076
+    second: Bulls_37
+  - first:
+      213: -1707386598055937995
+    second: Bulls_38
+  - first:
+      213: 4724066927149662348
+    second: Bulls_39
+  - first:
+      213: 6645862001881018873
+    second: Bulls_40
+  - first:
+      213: -5938582710514466266
+    second: Bulls_41
+  - first:
+      213: -963587219625157093
+    second: Bulls_42
+  - first:
+      213: -5838295665538956942
+    second: Bulls_43
+  - first:
+      213: -5739347348639125952
+    second: Bulls_44
+  - first:
+      213: -3075030899316320594
+    second: Bulls_45
+  - first:
+      213: 8319083450265394077
+    second: Bulls_46
+  - first:
+      213: -1391306500897343201
+    second: Bulls_47
+  - first:
+      213: -3513628619777632160
+    second: Bulls_48
+  - first:
+      213: -5001915475076437035
+    second: Bulls_49
+  - first:
+      213: -4976933432784727572
+    second: Bulls_50
+  - first:
+      213: -3812724356212478155
+    second: Bulls_51
+  - first:
+      213: -4539306806219506659
+    second: Bulls_52
+  - first:
+      213: 8238170200908737976
+    second: Bulls_53
+  - first:
+      213: 715335394073695176
+    second: Bulls_54
+  - first:
+      213: -4721239692791545834
+    second: Bulls_55
+  - first:
+      213: -2095268101754256097
+    second: Bulls_56
+  - first:
+      213: -7788360367131066084
+    second: Bulls_57
+  - first:
+      213: 2061090972658808292
+    second: Bulls_58
+  - first:
+      213: 7936218271826324648
+    second: Bulls_59
+  - first:
+      213: 2194522453122121800
+    second: Bulls_60
+  - first:
+      213: -4153993073820699653
+    second: Bulls_61
+  - first:
+      213: 8198853331640401054
+    second: Bulls_62
+  - first:
+      213: 6901292581431691457
+    second: Bulls_63
+  - first:
+      213: 6511627013303067996
+    second: Bulls_64
+  - first:
+      213: 6545774480099802626
+    second: Bulls_65
+  - first:
+      213: -6336407804045370190
+    second: Bulls_66
+  - first:
+      213: -7730119475390049665
+    second: Bulls_67
+  - first:
+      213: -5958162785531674819
+    second: Bulls_68
+  - first:
+      213: -2720495007084776975
+    second: Bulls_69
+  - first:
+      213: 6824767516325026160
+    second: Bulls_70
+  - first:
+      213: -4094215627009637643
+    second: Bulls_71
+  - first:
+      213: -7164975014134530442
+    second: Bulls_72
+  - first:
+      213: -7591230585822484199
+    second: Bulls_73
+  - first:
+      213: -7964918208584010172
+    second: Bulls_74
+  - first:
+      213: -1442927930137169594
+    second: Bulls_75
+  - first:
+      213: 3608401141540904501
+    second: Bulls_76
+  - first:
+      213: -1253887126697143265
+    second: Bulls_77
+  - first:
+      213: -8771588510322660512
+    second: Bulls_78
+  - first:
+      213: -6403674911671303622
+    second: Bulls_79
+  - first:
+      213: 4801351459939837227
+    second: Bulls_80
+  - first:
+      213: -1355671988333895762
+    second: Bulls_81
+  - first:
+      213: 8350549496260265000
+    second: Bulls_82
+  - first:
+      213: -5040137706427762238
+    second: Bulls_83
+  - first:
+      213: 7581111636773017416
+    second: Bulls_84
+  - first:
+      213: -151074537998571547
+    second: Bulls_85
+  - first:
+      213: -1683230035367964821
+    second: Bulls_86
+  - first:
+      213: -3355247266480966633
+    second: Bulls_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bulls_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dd4022a7a848c30800000000000000
+      internalID: 4360762596362870175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 336
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd27df79dfc9b5a0800000000000000
+      internalID: -6504939653700309579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b26a4f351b393f0800000000000000
+      internalID: -895176926771664011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d756ab3de07ba5e0800000000000000
+      internalID: -1897298653796214825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 336
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad5ede2275c5e90800000000000000
+      internalID: -7035652710327788814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfffbabfe69758820800000000000000
+      internalID: 2919873450995351549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d51d0050d8993f0800000000000000
+      internalID: -893527998428258938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 336
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487444717f941e070800000000000000
+      internalID: 8133863727603926916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86b9b495c3b51510800000000000000
+      internalID: 1519318110492538508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a53de84ccc4a210800000000000000
+      internalID: 1343423733445122593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 336
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852166a0997602170800000000000000
+      internalID: 8151629232542716504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 336
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b43cbd2f79dded0800000000000000
+      internalID: -2387585158111605900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891674c29109b2900800000000000000
+      internalID: 660780208131367320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d2bf0cbb991ee90800000000000000
+      internalID: -6998143314281419509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4008a412cb5484a90800000000000000
+      internalID: -7329531719230783484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e78cb9bb4896c70800000000000000
+      internalID: 8964842474565041725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef3c0e8bb43ae190800000000000000
+      internalID: -7932469813513011217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f2bf1d96fc91e0800000000000000
+      internalID: -2189604164106783956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4497068f3bcd480800000000000000
+      internalID: -8873019286474898259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6c17413972ae580800000000000000
+      internalID: -8797175409458166077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 288
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949f2012ff928130800000000000000
+      internalID: 3567589716833309846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b49e68cc0fcc360800000000000000
+      internalID: 7191387466231270275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145cb4ebc0592b0a0800000000000000
+      internalID: -6867262599821802175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 288
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e12fcf501a0cc3f0800000000000000
+      internalID: -879316761800924700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b8607b0aaced300800000000000000
+      internalID: 278883018557786999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11d48cc0b90bf950800000000000000
+      internalID: 6483786743480111389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cda1aa67b361fa70800000000000000
+      internalID: 8858971581433621960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0ef411e3af05640800000000000000
+      internalID: 5066824725277171936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b02636d1fa6610800000000000000
+      internalID: 1615369318699152583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc6e505d683bbdc0800000000000000
+      internalID: -3622239433138475853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc9c4738e632d360800000000000000
+      internalID: 7192871925852183747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228d153d12f9c1d0800000000000000
+      internalID: -3329864242204671451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0f048a515622490800000000000000
+      internalID: -7772538863196507948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f8d0ce750800cf0800000000000000
+      internalID: -288089261040890016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb489f90707cc10800000000000000
+      internalID: 2073633892849728735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f40801d13eb57e0800000000000000
+      internalID: -1775575914097127560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541fdb353006909b0800000000000000
+      internalID: -5113450334496362171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f14d3b983e78ce0800000000000000
+      internalID: -1402902578335572076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 192
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538fc986fe42e48e0800000000000000
+      internalID: -1707386598055937995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 192
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804def47d14f8140800000000000000
+      internalID: 4724066927149662348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f172688748da3c50800000000000000
+      internalID: 6645862001881018873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622428e1d7ae59da0800000000000000
+      internalID: -5938582710514466266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_42
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 192
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ed2207786a0a2f0800000000000000
+      internalID: -963587219625157093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_43
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27109d956053afea0800000000000000
+      internalID: -5838295665538956942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee8c9aefdb950b0800000000000000
+      internalID: -5739347348639125952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 144
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea696e470bb4355d0800000000000000
+      internalID: -3075030899316320594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b56e55252537370800000000000000
+      internalID: 8319083450265394077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f197250eb1611bce0800000000000000
+      internalID: -1391306500897343201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 144
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0681285e2651d3fc0800000000000000
+      internalID: -3513628619777632160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_49
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db2a8f6060a59ab0800000000000000
+      internalID: -5001915475076437035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_50
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d91c69616eeab0800000000000000
+      internalID: -4976933432784727572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_51
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 144
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa971166b761bc0800000000000000
+      internalID: -3812724356212478155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf5c092842101c0800000000000000
+      internalID: -4539306806219506659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_53
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdaf58662cd35270800000000000000
+      internalID: 8238170200908737976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_54
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 144
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d60b30c16de900800000000000000
+      internalID: 715335394073695176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_55
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6108fab7389ca7eb0800000000000000
+      internalID: -4721239692791545834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150bbd33cc1ce2e0800000000000000
+      internalID: -2095268101754256097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c110c66b28f2ae390800000000000000
+      internalID: -7788360367131066084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5b71bc1577a9c10800000000000000
+      internalID: 2061090972658808292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2c28687c132e60800000000000000
+      internalID: 7936218271826324648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84086f54b82847e10800000000000000
+      internalID: 2194522453122121800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_61
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3fb73ee4d0a56c0800000000000000
+      internalID: -4153993073820699653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c34fd6aad28c170800000000000000
+      internalID: 8198853331640401054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c84647c90156cf50800000000000000
+      internalID: 6901292581431691457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 96
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5564cdb442fd5a50800000000000000
+      internalID: 6511627013303067996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_65
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 96
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e7a2a653347da50800000000000000
+      internalID: 6545774480099802626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcdcd78cae8018a0800000000000000
+      internalID: -6336407804045370190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_67
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 96
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721c060b4919b490800000000000000
+      internalID: -7730119475390049665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fbe66a38a505da0800000000000000
+      internalID: -5958162785531674819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1fc71743cde3ad0800000000000000
+      internalID: -2720495007084776975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0799d2d95e176be50800000000000000
+      internalID: 6824767516325026160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2cc3e449c6e27c0800000000000000
+      internalID: -4094215627009637643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e36f1bf25e09c90800000000000000
+      internalID: -7164975014134530442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91968f3900886a690800000000000000
+      internalID: -7591230585822484199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4463f48d61de67190800000000000000
+      internalID: -7964918208584010172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6413fa741b0b9fbe0800000000000000
+      internalID: -1442927930137169594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ed8a858bd931230800000000000000
+      internalID: 3608401141540904501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_77
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1418c83d4c499ee0800000000000000
+      internalID: -1253887126697143265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06be15649be054680800000000000000
+      internalID: -8771588510322660512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3240c098939127a0800000000000000
+      internalID: -6403674911671303622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b256483d6b3d1a240800000000000000
+      internalID: 4801351459939837227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf196f528faf2de0800000000000000
+      internalID: -1355671988333895762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_82
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82409e3168c13e370800000000000000
+      internalID: 8350549496260265000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_83
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c93255b575dd0ab0800000000000000
+      internalID: -5040137706427762238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_84
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8479f600ed4853960800000000000000
+      internalID: 7581111636773017416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_85
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72df3128647edf0800000000000000
+      internalID: -151074537998571547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_86
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fcf927337f3a8e0800000000000000
+      internalID: -1683230035367964821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulls_87
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143dc35364cf61d0800000000000000
+      internalID: -3355247266480966633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
