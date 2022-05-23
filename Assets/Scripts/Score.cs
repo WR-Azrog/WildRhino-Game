@@ -6,10 +6,12 @@ using UnityEngine.UI;
 public class Score : MonoBehaviour
 {
 	public int scoreCount = 0;
-	public static Score instance;
 	public bool party = true;
+	
 	public Text scoreUpdate;
 	public Text finalScore;
+	
+	public static Score instance;
 	
     void Start()
     {

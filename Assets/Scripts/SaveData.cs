@@ -23,7 +23,7 @@ public class SaveData : MonoBehaviour
 		}
 	}
 	
-	// Load TOUT les scores sous form d'objet ScoresList
+	// Load TOUT les scores sous forme d'objet ScoresList
 	public void LoadFromJson(){
 		
 		string filePath = Application.persistentDataPath + "/scoreData.json";
@@ -32,10 +32,13 @@ public class SaveData : MonoBehaviour
 		listeScore = JsonUtility.FromJson<ScoresList>(scoreData);
 	}
 	
-	// Ajoute le score a la list des scores sous form d'objets ScoresList
+	// Ajoute le score a la list des scores sous forme d'objets ScoresList
 	public void SaveToJson(){
-		
-		listeScore.allscore.Add(new Scores() { doneDate = System.DateTime.Now.ToString(), player = "Julien", score = Score.instance.scoreCount });
+		// Ajoute a la liste le score
+		listeScore.allscore.Add(new Scores() {			
+		doneDate = System.DateTime.Now.ToString(),
+		player = "Julien", 
+		score = Score.instance.scoreCount });
 		
 		string scoreData = JsonUtility.ToJson(listeScore);
 		string filePath = Application.persistentDataPath + "/scoreData.json";

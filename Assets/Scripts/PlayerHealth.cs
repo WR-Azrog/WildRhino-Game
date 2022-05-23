@@ -5,8 +5,7 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour
 {
     public int maxHealth = 100;
-	public int currentHealth;
-	
+	public int currentHealth;	
 	public bool isInvincible = false;
 	 
 	public SpriteRenderer graphics;
@@ -28,10 +27,13 @@ public class PlayerHealth : MonoBehaviour
 	
 	public void TakeDamage(int damage)
 	{
+		// Check si invincible
 		if (!isInvincible){
+		// Applique les dommages  
 		currentHealth -= damage;
 		healthBar.SetHealth(currentHealth);
 		isInvincible=true;
+		// Animation d'invisibilitée
 		StartCoroutine(InvincibilityFlash());
 		StartCoroutine(HandleInvincibleDelay());
 		}
