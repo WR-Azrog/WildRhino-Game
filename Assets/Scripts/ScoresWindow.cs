@@ -52,10 +52,12 @@ public class ScoresWindow : MonoBehaviour
 		return triList.IndexOf(triList.Max());
 	}
 	
-	// Renvois les 5 derniers scores enregistré
+	// Affiche les 5 derniers scores enregistré
 	public void LastScore(){		
 		for (int i = (scoreList.Count)-5; i < scoreList.Count; i++){
-			lastScore.text += scoreList[i].player + " - " + scoreList[i].doneDate + " - " + (scoreList[i].score).ToString() + " \n" ;
+			lastScore.text += scoreList[i].player + " - " +
+			scoreList[i].doneDate + " - " +
+			(scoreList[i].score).ToString() + " \n" ;
 		}
 	}
 }

@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class Mouvement : MonoBehaviour
-{
-	
+{	
 	public Rigidbody2D rb;
 	public BoxCollider2D playerBox;
+	
+	public bool mobileVersion = true;
 	
 	public Animator animator;
 	
@@ -14,16 +16,48 @@ public class Mouvement : MonoBehaviour
 	private Vector3 moveDirection = new Vector3(0, 1);
 	public float moveSpeed = 0;
 	
+	public Press pressSpace;
+	public Press pressUp;
+	public Press pressDown;
+	public Press pressLeft;
+	public Press pressRight;
+	
+	public bool InputSpace = false;
+	public bool InputUp = false;
+	public bool InputDown = false;
+	public bool InputLeft = false;
+	public bool InputRight = false;
+	
 	public SpriteRenderer spriteRenderer;
 	
 	// Awake et FixedUpdate
 	void Awake() {}
 	
     void FixedUpdate(){	
-	
+		
 		HandleInput();
 		MovePlayer(speedVectorCreation());		
     }
+
+	// Mobile ou PC check les INPUT
+	public void checkInput(){
+		
+			if (!mobileVersion){
+			InputSpace = Input.GetKey(KeyCode.Space);
+			InputUp = Input.GetKey(KeyCode.UpArrow);
+			InputDown = Input.GetKey(KeyCode.DownArrow);
+			InputLeft = Input.GetKey(KeyCode.LeftArrow);
+			InputRight = Input.GetKey(KeyCode.RightArrow);
+			}
+			else {
+			InputSpace = pressSpace.buttonPressed;
+			InputUp = pressUp.buttonPressed;
+			InputDown = pressDown.buttonPressed;
+			InputLeft = pressLeft.buttonPressed;
+			InputRight = pressRight.buttonPressed;
+			}
+	}
+	 
 	
 	// Fonction de calcule nécéssaire au déplacement et l'orientation
 	private Vector3 speedVectorCreation(){
@@ -39,7 +73,7 @@ public class Mouvement : MonoBehaviour
 	}
 	
 	private void MovePlayer(Vector3 targetVelocity){
-		if (Input.GetKey(KeyCode.Space)){
+		if (InputSpace){
 			
 			// SetUP de la charge
 			if (moveSpeed < 1000){moveSpeed += 2;}
@@ -65,9 +99,9 @@ public class Mouvement : MonoBehaviour
 	
 	// Set la moveDirection en vecteur2 et empêche le demi-tour + solution temporaire de hitbox
 	private void HandleInput(){
-		
-		if (Input.GetKey(KeyCode.UpArrow)){
-			if (moveDirection.y != -1 || !Input.GetKey(KeyCode.Space)){
+		checkInput();
+		if (InputUp){
+			if (moveDirection.y != -1 || !InputSpace){
 				
 				// Set la direction
 				moveDirection = new Vector3(0, 1);
@@ -80,8 +114,8 @@ public class Mouvement : MonoBehaviour
 				playerBox.offset = new Vector2(0.000820592f , -0.002076507f);
 			}
 		}
-		if (Input.GetKey(KeyCode.DownArrow)){
-			if (moveDirection.y != +1 || !Input.GetKey(KeyCode.Space)){
+		if (InputDown){
+			if (moveDirection.y != +1 || !InputSpace){
 				
 				moveDirection = new Vector3(0, -1);
 				
@@ -91,8 +125,8 @@ public class Mouvement : MonoBehaviour
 				playerBox.offset = new Vector2(0.000820592f , -0.002076507f);
 			}
 		}
-		if (Input.GetKey(KeyCode.LeftArrow)){
-			if (moveDirection.x != +1 || !Input.GetKey(KeyCode.Space)){
+		if (InputLeft){
+			if (moveDirection.x != +1 || !InputSpace){
 				
 				moveDirection = new Vector3(-1, 0);
 				
@@ -102,8 +136,8 @@ public class Mouvement : MonoBehaviour
 				playerBox.offset = new Vector2(-0.0668866f , -0.08571476f);
 			}
 		}
-		if (Input.GetKey(KeyCode.RightArrow)){
-			if (moveDirection.x != -1 || !Input.GetKey(KeyCode.Space)){
+		if (InputRight){
+			if (moveDirection.x != -1 || !InputSpace){
 				
 				moveDirection = new Vector3(1, 0);
 				
